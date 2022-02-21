@@ -1,6 +1,6 @@
 # Horiseon
 
-![Website Screenshot](./assets/images/HoriseonWebpage.jpg)
+![Website Screenshot](./assets/images/HoriseonWebpage.JPG)
 
 [Deployed Website](https://renbryant.github.io/Horiseon/)
 
