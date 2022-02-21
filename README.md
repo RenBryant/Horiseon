@@ -4,7 +4,7 @@
 
 [Deployed Website](https://renbryant.github.io/Horiseon/)
 
-This is a website for the Horiseon Social Solution Services. This repository shows my stages to clean up the code and make sure all of the links, images, and icons work in the code and on the website itself. The website is supposed to be easily accessible and visually appealing. Here is what I did:
+This is a website for the Horiseon Social Solution Services. This repository shows my stages to clean up the code and make sure all of the links, images, and icons work in the code and on the website itself. The website is supposed to be easily accessible and visually appealing. The code is in HTML and .css form. Here is what I did:
 
 Changed semantice HTML elements from <div> to the names of specific elements
     -header
