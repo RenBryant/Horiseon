@@ -1,8 +1,6 @@
 # Horiseon
 
-![Website Screenshot](./assets/images/Webpage1.jpg)
-![Website Screenshot](./assets/images/Webpage2.jpg)
-![Website Screenshot](./assets/images/Webpage3.jpg)
+![Website Screenshot](./assets/images/HoriseonWebpage.jpg)
 
 [Deployed Website](https://renbryant.github.io/Horiseon/)
 
